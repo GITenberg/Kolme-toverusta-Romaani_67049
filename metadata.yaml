@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Volter_Kilpi
     - https://en.wikipedia.org/wiki/Volter_Kilpi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frenssen, Gustav
@@ -23,6 +26,8 @@ creator:
     - https://de.wikipedia.org/wiki/Gustav_Frenssen
     - https://fi.wikipedia.org/wiki/Gustav_Frenssen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67049#Kolme-toverusta-Romaani
 gutenberg_issued: '2021-12-30'
 identifiers:
   gutenberg: '67049'
